@@ -5,3 +5,5 @@
 #Projeto-Cordel-Moderno
 
  - Projeto proposto pelo professor Gustavo Guanabara; -Um Cordel de Milton Duarte-. Com esse desafio, consegui treinar um pouco mais do posicionamento de caixas, posicionamento das imagens e também realizar um parallax com CSS.
+ * **[Projeto Cordel](https://helena-lujan-gomes.github.io/projeto-cordel-moderno/)** 
+
